@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8135dde290e79724ca721ea985193b16, type: 3}
+  m_Name: Textures
+  m_EditorClassIdentifier: 
+  Items:
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/135g.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/135g.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/135g.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/832_PURE_WHITE.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/832_PURE_WHITE.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Carpet013_2K_Color.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Carpet013_2K_Color.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Cloth_b.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Cloth_b.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Concrete034_2K_Color.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Concrete034_2K_Color.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_1.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_1.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_10.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_10.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_11.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_11.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_2.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_2.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_4.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_4.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_5.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_5.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_6.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_6.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_7.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_7.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_8.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/dcmap_willisau_vero_chair_8.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Diff.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Diff.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Duck
+    waterproof.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Duck
+    waterproof.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Fabric023_2K_Color.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Fabric023_2K_Color.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Fabric035_2K_Color.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Fabric035_2K_Color.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Fabric040_2K_Color.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Fabric040_2K_Color.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Fabric047_2K_Color.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Fabric047_2K_Color.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Leather024_2K_Color.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Leather024_2K_Color.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Metal_Texture_PLUS_Metal_Grid.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Metal_Texture_PLUS_Metal_Grid.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/mw_Carel.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/mw_Carel.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/narra.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/narra.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Parquet-WhiteLux.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Parquet-WhiteLux.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/parquet_teak_20120518_1545572153.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/parquet_teak_20120518_1545572153.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/pic108.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/pic108.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/pinho_bump.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/pinho_bump.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/pinho_difuse.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/pinho_difuse.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Plastic008_4K_Color.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Plastic008_4K_Color.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Plastic009_2K_Color.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Plastic009_2K_Color.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Rattan
+    Deckchair_bp.png
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Rattan
+    Deckchair_bp.png.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Rattan
+    Deckchair_df.png
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Rattan
+    Deckchair_df.png.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Rovere
+    Chiaro.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Rovere
+    Chiaro.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Screen1.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Screen1.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/SS05_Metal_16_B.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/SS05_Metal_16_B.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/steel_bump.png
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/steel_bump.png.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/tabletop_diffuse.png
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/tabletop_diffuse.png.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Texture-OlivaJPEG.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Texture-OlivaJPEG.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Tex_treccia.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Tex_treccia.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Tex_treccia_d.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Tex_treccia_d.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Tex_treccia_g.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Tex_treccia_g.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Tex_treccia_r.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Tex_treccia_r.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/wallpaper_display.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/wallpaper_display.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/wooden-texture-035.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/wooden-texture-035.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/wooden-texture-0354.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/wooden-texture-0354.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/wooden-texture-035_refl.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/wooden-texture-035_refl.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Woods
+    - Plastics.Finish Carpentry.Wood.White Ash.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Woods
+    - Plastics.Finish Carpentry.Wood.White Ash.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/woodtexture.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/woodtexture.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_
+    01_2048x2048.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_
+    01_2048x2048.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_00.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_00.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_01.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_01.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_02.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_02.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_03.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_03.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_B.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_B.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_C.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_C.jpg.meta
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_Laurent.jpg
+  - D:/Projects/POG_a_3D_PointCloud_Generator/SceneGenerator/Assets/StreamingAssets/textures/Wood_Laurent.jpg.meta
