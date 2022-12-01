@@ -2,7 +2,7 @@
 
 This repository contains code to generate synthetic point cloud scenes where the lighting conditions are taken into account. In a nutshell, meshes are randomly placed in the room, and the colour of points is determined by ray tracing method. Furthermore, shadows are also contained in the synthetic point cloud by calculating shadow rays.  
 
-<img src="./Figures/GeneratedPointCloud.jpg" width="800" alt="Generated Point Cloud"/>
+<img src="./Figures/GeneratedPointCloud.png" width="800" alt="Generated Point Cloud"/>
 
 ## Requirements
 
@@ -15,7 +15,7 @@ Intergrate the following plugins:
 
 ## Quickstart
 
-<img src="./Figures/GeneratedScene.jpg" width="800" alt="Generated Mesh Scene"/>
+<img src="./Figures/GeneratedScene.JPG" width="800" alt="Generated Mesh Scene"/>
 
 1) Open the project in Unity. 
 2) Open the *MenuScene.unity* in the *./Assets/Scenes/Menu* directory
@@ -29,7 +29,7 @@ Intergrate the following plugins:
 
 ## Create Dataset
 
-<img src="./Figures/ImportScene.jpg" width="800" alt="Import Scene"/>
+<img src="./Figures/ImportScene.JPG" width="800" alt="Import Scene"/>
 
 The data should be stored in the StreamingAssets path. Here you create 2 Folders called *models* *textures*. Place all you textures in the *textures* folder. Create a folder foreach category (class) in the *models* folder. For instance, you could create a directory *StreamingAssetsPath/models/Chair* for the chair class. All chair models should be located in the chair folder. In Unity, open and start the scene *./Assets/Scenes/AssetImport/ImportScene.unity*. Click on *Current Folder* and navigate into a class folder located in the *models* folder. Choose the appropriate category in the dropdown menu. Apply a texture by clicking on one of the textures in the right context menu. Choose the appropriate size (S, M, L) for your model. Click on save model and continue with the next model. The textured models will be stored in a *StreamingAssetsPath/models/modelData.txt* file.
 
